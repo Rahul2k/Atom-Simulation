@@ -8,13 +8,11 @@ Follow these steps to run the code -
 <li>You will see the screen shown below the steps</li>
 <li>The arrows are used to increase and decrease the atomic number. Click on them to see the changes</li>
 <li>Use your keyboard to change the orbit number of the electron</li>
-
+<br>
+Click Middle mouse button to resent to first state of Hydrogen atom
+<br>
 Image :
+<br>
 <br>
 <img src="https://github.com/Rahul2k/Innovative-Project/blob/master/Image.png" width="400" height = "400">
 
-Video Demo :
-<br>
-<video width="480" height="400" autoplay>
-  <source src="https://drive.google.com/file/d/13msGSkwVuTpYWbqXxPXkxvwgMNjASLJs/view?usp=sharing" type="video/mp4">
-</video>
