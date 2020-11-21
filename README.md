@@ -11,10 +11,10 @@ Follow these steps to run the code -
 
 Image :
 <br>
-<img src="https://github.com/Rahul2k/Innovative-Project/blob/master/Image.png">
+<img src="https://github.com/Rahul2k/Innovative-Project/blob/master/Image.png" width="400" height = "400">
 
 Video Demo :
 <br>
 <video width="480" height="400" autoplay>
-  <source src="https://github.com/Rahul2k/Innovative-Project/blob/master/video.mp4" type="video/mp4">
+  <source src="https://drive.google.com/file/d/13msGSkwVuTpYWbqXxPXkxvwgMNjASLJs/view?usp=sharing" type="video/mp4">
 </video>
