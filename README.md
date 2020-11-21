@@ -1,6 +1,6 @@
 # Innovative-Project
 
-To install the code in your system, please follow <a href="https://docs.google.com/document/d/1HodbUJEv_RxX9vVE8f4PB1XlFQOzwvhFlfDX92sy_aU/edit?usp=sharing"> these instructions </a>
+To install the code in your system, please follow <a href="https://drive.google.com/file/d/1mPxa6a_15FwHMv1LGvIEhByV97Hl9cVH/view?usp=sharing"> these instructions </a>
 
 Follow these steps to run the code -
 
