@@ -876,3 +876,10 @@
 1526093414 d:\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
 	<GL/gl.h>
 
+1605704853 source:d:\innovative-project\main.cpp
+	<iostream>
+	<algorithm>
+	<GL/glut.h>
+	<vector>
+	<cmath>
+
